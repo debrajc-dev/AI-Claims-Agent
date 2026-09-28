@@ -1,0 +1,15 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local vector database
+chroma_db/
+
+# Local document artifacts
+*.sqlite3
