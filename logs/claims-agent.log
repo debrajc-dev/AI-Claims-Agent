@@ -1,0 +1,14 @@
+2026-10-22 17:16:41,219 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:26:46,415 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:27:42,815 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:28:45,178 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:29:41,089 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:34:21,472 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:34:21,505 INFO src.Tools.ReadPolicyTool: C:\Users\Debra\OneDrive\Desktop\Debraj\AI\AI Claims Agent\chroma_db
+2026-10-22 17:53:19,142 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:53:19,173 INFO src.Tools.ReadPolicyTool: C:\Users\Debra\OneDrive\Desktop\Debraj\AI\AI Claims Agent\chroma_db
+2026-10-22 17:53:29,192 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2026-10-22 17:53:29,323 INFO src.Tools.ReadPolicyTool: Retrieved policy context: characters=1382, source_count=2, sources=[{'source': 'Policy1.pdf', 'page': 0}, {'source': 'Policy1.pdf', 'page': 0}]
+2026-10-22 17:53:38,289 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:53:40,644 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-10-22 17:53:42,898 INFO httpx2: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

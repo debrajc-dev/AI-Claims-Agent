@@ -1,6 +1,7 @@
 """Document ingestion and Chroma persistence."""
 
 import os
+from pathlib import Path
 
 from fastapi import APIRouter
 from langchain_community.document_loaders import PyPDFLoader
@@ -10,7 +11,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 
 router = APIRouter()
-CHROMA_DIRECTORY = "./chroma_db"
+CHROMA_DIRECTORY = str(Path(__file__).resolve().parents[2] / "chroma_db")
 
 
 @router.post("/SetupPolicy")

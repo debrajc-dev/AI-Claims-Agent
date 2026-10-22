@@ -1,0 +1,11 @@
+On October 14, 2026, a pipe under my kitchen sink burst and water damaged the cabinet and nearby flooring. A plumber repaired the pipe, and the repair estimate for the water damage is $1,250. Does my policy cover this damage, and what 
+ion should I provide?
+
+
+On October 14, 2026, a pipe under my kitchen sink burst and water 
+damaged the cabinet and nearby flooring. A plumber repaired the pipe, 
+and the repair estimate for the water damage is $1,250. 
+Does my policy cover this damage, and what documentation should I provide?
+
+cd ..
+cd ...\.venv\Scripts\python.exe -m uvicorn src.main:app --reload
